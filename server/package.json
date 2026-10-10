@@ -12,6 +12,7 @@
   "license": "ISC",
   "type": "module",
   "dependencies": {
+    "@ai-sdk/google": "^4.0.93",
     "@ai-sdk/openai": "^4.0.24",
     "ai": "^7.0.42",
     "bcrypt": "^6.0.0",
