@@ -12,7 +12,7 @@ const LoginLeft = () => {
             <p className="text-zinc-300">
                 Describe what you need, preview instantly, and customize your site in real-time. React with clean JSX, verified layouts, and instant code exports.
             </p>
-            <p className='text-zinc-300 text-sm mt-12'>Copyright {new Date().getFullYear()} All Rights Reserved</p>
+            <p className='text-zinc-300 text-sm mt-12'>Copyright {new Date().getFullYear()} Ayush</p>
 
         </div>
     </div>
