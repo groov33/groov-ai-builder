@@ -1,1 +1,8 @@
-{ "name": "groov-builder-client" }
+  {
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "/"
+      }
+    ]
+  }
